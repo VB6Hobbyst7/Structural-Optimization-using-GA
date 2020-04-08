@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TheGA", "TheGA\TheGA.vbproj", "{AAB23CEF-0C4B-49DD-A004-DDA272079B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB23CEF-0C4B-49DD-A004-DDA272079B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB23CEF-0C4B-49DD-A004-DDA272079B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB23CEF-0C4B-49DD-A004-DDA272079B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB23CEF-0C4B-49DD-A004-DDA272079B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8E490E4-1790-491E-BE5A-7A417E19FCE5}
+	EndGlobalSection
+EndGlobal
